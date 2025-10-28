@@ -39,4 +39,4 @@ ACTIVITY DIAGRAM:
 ![ActivityDiagram1](https://github.com/user-attachments/assets/911378ac-29c4-4df3-8814-216bc6f10999)
 
 # RESULT:
-hus, the UML Diagrams for an Hospital management System has been drawn and verified.
+Thus, the UML Diagrams for an Hospital management System has been drawn and verified.
